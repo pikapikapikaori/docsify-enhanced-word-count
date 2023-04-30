@@ -6,7 +6,7 @@
   <code>docsify-enhanced-word-count</code>
 </p>
 
-![badge](https://img.shields.io/github/license/pikapikapikaori/docsify-enhanced-word-count) ![badge](https://img.shields.io/github/last-commit/pikapikapikaori/docsify-enhanced-word-count)
+![badge](https://img.shields.io/github/last-commit/pikapikapikaori/docsify-enhanced-word-count)
 
 [English](README.md) | 中文
 
