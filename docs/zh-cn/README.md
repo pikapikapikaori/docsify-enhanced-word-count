@@ -29,7 +29,7 @@
 <script src="https://cdn.jsdelivr.net/gh/pikapikapikaori/docsify-enhanced-word-count/src/countWords.js"></script>
 ```
 
-添加一下设置：
+添加以下设置：
 
 ```js
 window.$docsify = {
