@@ -34,7 +34,7 @@ In `index.html`, add:
 
 ```html
 <!-- docsify-enhanced-word-count plugin -->
-<script src="https://cdn.jsdelivr.net/gh/pikapikapikaori/docsify-enhanced-word-count/src/countWords.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/pikapikapikaori/docsify-enhanced-word-count@latest/src/countWords.js"></script>
 ```
 
 Add settings:
